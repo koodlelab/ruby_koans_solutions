@@ -1,8 +1,0 @@
-<!DOCTYPE html>
-<html lang="en" class="">
-  <head>
-  </head>
-  <body>
-    <H2>Solution to Ruby Koans - https://github.com/neo/ruby_koans</H2>
-  </body>
-</html>
