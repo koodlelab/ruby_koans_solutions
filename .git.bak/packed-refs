@@ -1,0 +1,13 @@
+# pack-refs with: peeled fully-peeled 
+84433d2f520d17ed44f55671f17923e51434da5c refs/remotes/origin/LA_Ruby_Conf_Boston_Christy
+3ed32b45346c2e6a452748a272e8fde5e382cd0a refs/remotes/origin/about_symbols
+d27004c70da4cf38fa82104b95bdc7b440d3863b refs/remotes/origin/become_the_sensei
+1dcd9babd4fe285accf3998d94f8f95117cbda2d refs/remotes/origin/jruby
+9b97fea75ab3690add797bbfbedc6ee5a3237c8d refs/remotes/origin/jruby_wip
+8068f1f106c8f535bded1b7b6b01047f76a6bf43 refs/remotes/origin/master
+e26666280ccf8c1f45fbbdd70d1d4e82ae18735d refs/remotes/origin/more_jruby
+584b26e532a41ff28e22a5e6b05b2f01d585090a refs/remotes/origin/output_refactoring
+b0a01786f42bfd26da6eea5709a8fc7938e4f80f refs/tags/cinci-day-of-ruby-2010
+425fd41fbca0208f63000c1a38391d0bb96fb097 refs/tags/codemash-2010
+d3ce64a7685e3e0f1ffe7e616d9f243d19f23785 refs/tags/rubykoans-2010-11-29
+db3bbdcf45980f16f7620498a75bf86646ffc8ac refs/tags/rubykoans-2010-12-23
